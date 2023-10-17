@@ -1,0 +1,33 @@
+.cont-home {
+    background:url("../../Images/84248.png");
+    background-size: cover;
+    height: 100vh;
+  }
+  
+  .home h1 {
+    position: absolute;
+    margin-left: 34vw;
+    margin-top: 20vh;
+    font-size: 60px;
+    font-weight: bold;
+    color: antiquewhite;
+  }
+  .home p {
+    position: absolute;
+    margin-left: 31vw;
+    margin-top: 33vh;
+    font-size: 30px;
+    color: antiquewhite;
+  }
+  .home button{
+    position: absolute;
+    padding: 10px;
+    border-radius: 5px;
+    background:lightgreen;
+    border: 1px solid lightgreen;
+    margin-left: 45vw;
+    margin-top: 42vh;
+    color: rgb(0, 0, 0);
+
+    
+  }

@@ -1,0 +1,6 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  background: url('../src/Components/Images/hd1.jpg');
+  background-size: cover;
+}
